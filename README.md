@@ -26,7 +26,7 @@
                ├── bbb.png
                ├── ...
            ├── ...
-           
+
        ├── test
            ├── ref_imgs (domain folder)
                ├── domain1 (domain folder)
@@ -38,9 +38,9 @@
                    ├── iii.png
                    ├── ...
                ├── ...
-               
+
            ├── src_imgs
-               ├── src1.jpg 
+               ├── src1.jpg
                ├── src2.png
                ├── ...
 ```
@@ -80,10 +80,10 @@ python main.py --dataset celebA-HQ_gender --phase test
 </div>
 
 ## License
-The source code, pre-trained models, and dataset are available under [Creative Commons BY-NC 4.0](https://github.com/clovaai/stargan-v2/blob/master/LICENSE) license by NAVER Corporation. You can **use, copy, tranform and build upon** the material for **non-commercial purposes** as long as you give **appropriate credit** by citing our paper, and indicate if changes were made. 
+The source code, pre-trained models, and dataset are available under [Creative Commons BY-NC 4.0](https://github.com/clovaai/stargan-v2/blob/master/LICENSE) license by NAVER Corporation. You can **use, copy, tranform and build upon** the material for **non-commercial purposes** as long as you give **appropriate credit** by citing our paper, and indicate if changes were made.
 
-For business inquiries, please contact clova-jobs@navercorp.com.<br/>	
-For technical and other inquires, please contact yunjey.choi@navercorp.com.<br/>	
+For business inquiries, please contact clova-jobs@navercorp.com.<br/>
+For technical and other inquires, please contact yunjey.choi@navercorp.com.<br/>
 For questions about the tensorflow implementation, please contact jhkim.ai@navercorp.com.
 
 
@@ -98,3 +98,7 @@ If you find this work useful for your research, please cite our paper:
   year={2020}
 }
 ```
+
+// メモ（2023/02/27）
+- スライドとポスター
+  - epoch数に対応した生成画像をまとめて貼る
